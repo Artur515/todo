@@ -2,7 +2,7 @@
   "name": "react-app-arthur-todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Artur515.github.io/todo_app",
+  "homepage": "https://Artur515.github.io/todo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
